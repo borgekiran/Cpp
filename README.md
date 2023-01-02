@@ -30,7 +30,7 @@ int main()
 //using namespace std
     Means that we can use names for objects and variables from the standard library.
 //int main()
-    This is called a function 
+    This is called a function. 
     
 `` Any code inside its curly brackets {} will be executed... ``
 
